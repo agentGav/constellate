@@ -80,7 +80,7 @@
     </div>
 
     <div class="referred-by f6 gray">
-      <p>Referred to the DGen Constellation by: Gavin Starks</p>
+      <p>Referrer: Gavin Starks</p>
     </div>
     </div>
 
